@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h
+mv [[:upper:]]* /tmp/u 
